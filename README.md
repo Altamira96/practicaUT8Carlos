@@ -12,8 +12,11 @@ Calcular en que planta va a encontrarse el trabajador dependiendo del total de e
 
 [practicaUT8Carlos](https://github.com/Altamira96/practicaUT8Carlos.git)
 
+## Imagen de Octocat
 
-![gitHub logo desde url](Octocat.png)
+![gitHub logo desde url](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
+### Uso de tipos de texto
 
 Tengo un texto con **negrita**, *cursiva* y ~~tachado~~
 
