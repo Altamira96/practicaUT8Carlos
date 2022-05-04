@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Carlos\Desktop\Ejercicio T8\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1673049053.index
+3413725848.index
