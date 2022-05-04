@@ -5,7 +5,10 @@ Repositorio para la actividad de la UT8 :)
 
 Calcular en que planta va a encontrarse el trabajador dependiendo del total de empleados, los meses de antigüedad y el cargo directivo si lo tiene.
 
-## Tecnologías implementadas
+## Biografia
+
+Me llamo Carlos Altamira Rodríguez, con con titulo de desarrollo de Aplicaciones Multiplataforma, y actualmente estudiante del CIFP de Aviles
+conpaginandolo con un empleo en Consultora Principado, como postventa y desarrollador de webs en wordpress.
 
 
 ## Enlace al directiorio de GitHub
@@ -23,7 +26,7 @@ Tengo un texto con **negrita**, *cursiva* y ~~tachado~~
 #### Listado del contenido del repositorio:
 
 * EjercicioUT8
-    * Proyecto
+    * Proyecto en Java
     * JavaDoc
 * Readme.md
 
